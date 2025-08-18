@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Philippe Model Paris",
+      "price": 250.00,
+      "images": [
+        "https://i.imgur.com/mlDxzNJ.png",
+        "https://i.imgur.com/OqGcThe.png",
+        "https://i.imgur.com/30TcgpC.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Philippe Model Paris",
+      "price": 250.00,
+      "images": [
+        "https://i.imgur.com/OtAcJS2.png",
+        "https://i.imgur.com/1ppaEpn.png",
+        "https://i.imgur.com/Z6ZpZY4.png"
+      ]
+    },
+     {
+      "id": 3,
+      "name": "Philippe Model Paris",
+      "price": 250.00,
+      "images": [
+        "https://i.imgur.com/vOD2XPj.png",
+        "https://i.imgur.com/uWOLoCO.png",
+        "https://i.imgur.com/32nJjjK.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Maison Margiela Gats",
+      "price": 255.00,
+      "images": [
+        "https://i.imgur.com/Y3RAwBj.jpeg",
+        "https://i.imgur.com/VqiGyWq.jpeg",
+        "https://i.imgur.com/4KVls1P.jpeg"
+      ]
+    },
+       {
+      "id": 5,
+      "name": "Maison Margiela Gats",
+      "price": 255.00,
+      "images": [
+        "https://i.imgur.com/W4zJM5H.jpeg",
+        "https://i.imgur.com/QKKPUIo.jpeg",
+        "https://i.imgur.com/PJQT8f6.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Maison Margiela Gats",
+      "price": 270.00,
+      "images": [
+        "https://i.imgur.com/3IMNNMf.jpeg",
+        "https://i.imgur.com/L8cz0Tb.jpeg",
+        "https://i.imgur.com/0P6ZC0f.jpeg"
+      ]
+    },
+     {
+      "id": 7,
+      "name": "Off-White Flip-flops",
+      "price": 100.00,
+      "images": [
+        "https://i.imgur.com/RKCGJ34.jpeg",
+        "https://i.imgur.com/GuaRnp2.jpeg",
+        "https://i.imgur.com/wgbhNPL.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Off-White Flip-flops",
+      "price": 100.00,
+      "images": [
+        "https://i.imgur.com/5APPb4R.jpeg",
+        "https://i.imgur.com/p6CJlZh.jpeg",
+        "https://i.imgur.com/ZchBmcA.jpeg"
+      ]
+    },
+      {
+      "id": 9,
+      "name": "Off-White Flip-flops",
+      "price": 100.00,
+      "images": [
+        "https://i.imgur.com/33f7gcl.jpeg",
+        "https://i.imgur.com/pc0OC0T.jpeg",
+        "https://i.imgur.com/5MiWdsC.jpeg"
+      ]
+    }
+  ]
+}

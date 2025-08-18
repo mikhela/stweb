@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+.lpf
+{
+      font-family: 'Frijole', cursive;
+}
+.fa
+{
+    font-family: 'Rubik Doodle Triangles', cursive;
+}
+
+.untouchable {
+    user-select: none;  /* Prevents the image from being selected */
+    -webkit-user-select: none; /* For Safari */
+    outline: none;  /* Removes the blue outline */
+  }
+
+  .Zencontainer
+  {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  @media screen and (max-width: 768px)
+  {
+    .Zencontainer
+    {
+      width: 95%;
+    }
+  }
